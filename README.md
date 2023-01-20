@@ -1,4 +1,4 @@
-# forground_app
+# Child App Notification Listener
 
 A new Flutter project.
 
